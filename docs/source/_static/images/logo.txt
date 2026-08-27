@@ -1,0 +1,2 @@
+Mach mir ein Webseite-Logo aus Konbination: Systems Engineering, V-Modell (gemäß ISO/IEC/IEEE 15288 für System-Lifecycle-Prozesse), Aurduino Uno und ESP32-CAM.
+https://chatgpt.com/s/p_6a9050474cc481919035e173d0fefef9

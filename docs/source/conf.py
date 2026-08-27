@@ -7,6 +7,7 @@
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 project = 'Arduino- und ESP32-Dokumentation'
+html_logo = "_static/images/logo_2.png"
 copyright = '2026, Gio'
 author = 'Gio'
 release = '1.0'

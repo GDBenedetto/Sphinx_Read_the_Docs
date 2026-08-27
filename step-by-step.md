@@ -1,4 +1,4 @@
-# Eigene technische Dokumentations-Webseite mit Sphinx und GitHub Pages
+# Eigene technische Dokumentations-Webseite mit Sphinx und GitHub Pages (27.Aug.26.v1)
 
 #### Guide:
 

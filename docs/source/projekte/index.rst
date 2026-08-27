@@ -1,9 +1,6 @@
 Projekte
 ========
 
-Projekte
-========
-
 .. toctree::
 	:maxdepth: 2
 

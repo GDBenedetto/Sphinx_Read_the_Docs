@@ -1,9 +1,6 @@
 ESP32
 =====
 
-ESP32
-=====
-
 .. toctree::
 	:maxdepth: 2
 

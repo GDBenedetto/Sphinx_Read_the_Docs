@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="260" viewBox="0 0 720 260" role="img" aria-labelledby="title desc">
+  <title id="title">Vereinfachte Mikrocontroller-Schaltung</title>
+  <desc id="desc">Ein Mikrocontroller ist mit einem Sensor und einer LED verbunden.</desc>
+  <rect width="720" height="260" fill="#f4f1e8"/>
+  <rect x="270" y="65" width="180" height="130" rx="8" fill="#1f566b"/>
+  <text x="360" y="130" text-anchor="middle" fill="#ffffff" font-family="sans-serif" font-size="20">Mikrocontroller</text>
+  <rect x="55" y="85" width="140" height="90" rx="8" fill="#d36b45"/>
+  <text x="125" y="138" text-anchor="middle" fill="#ffffff" font-family="sans-serif" font-size="18">Sensor</text>
+  <circle cx="595" cy="130" r="42" fill="#e6b84d" stroke="#8d5b1f" stroke-width="5"/>
+  <text x="595" y="136" text-anchor="middle" fill="#352b1d" font-family="sans-serif" font-size="18">LED</text>
+  <path d="M195 130H270M450 130H553" fill="none" stroke="#352b1d" stroke-width="5"/>
+  <path d="m255 117 15 13-15 13M538 117l15 13-15 13" fill="none" stroke="#352b1d" stroke-width="5"/>
+</svg>

@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+
+# Sphinx-Build-Ergebnisse
+docs/build/
+
+# Editor- und Betriebssystemdateien
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

@@ -23,6 +23,7 @@ Inhalte
    arduino/index
    esp32/index
    projekte/index
+   comingsoon/index
 
 Weitere Bereiche
 ----------------
